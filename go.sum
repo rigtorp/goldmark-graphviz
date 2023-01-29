@@ -1,0 +1,6 @@
+github.com/rigtorp/go-graphviz v0.0.0-20230127080311-6427a3d41734 h1:wHbTT3qesZHt+afam0lryMpgjiXWBHis7lJE5pjjTQY=
+github.com/rigtorp/go-graphviz v0.0.0-20230127080311-6427a3d41734/go.mod h1:NHY1pxp5nFp+xOnRgGOEX2j9nrxkvLHoPqhnGRfKpTk=
+github.com/tetratelabs/wazero v1.0.0-pre.7 h1:WI5N14XxoXw+ZWhcjSazJ6rEowhJbH/x8hglxC5gN7k=
+github.com/tetratelabs/wazero v1.0.0-pre.7/go.mod h1:u8wrFmpdrykiFK0DFPiFm5a4+0RzsdmXYVtijBKqUVo=
+github.com/yuin/goldmark v1.5.3 h1:3HUJmBFbQW9fhQOzMgseU134xfi6hU+mjWywx5Ty+/M=
+github.com/yuin/goldmark v1.5.3/go.mod h1:6yULJ656Px+3vBD8DxQVa3kxgyrAnzto9xy5taEt/CY=
